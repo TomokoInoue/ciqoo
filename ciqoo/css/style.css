@@ -1,0 +1,10 @@
+body {
+    width: 768px;
+    margin: 0 auto;
+    background-color: #000;
+}
+
+#canvasEl{
+    width: 768px;
+    height: 1024px;
+}
